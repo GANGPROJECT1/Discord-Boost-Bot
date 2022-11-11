@@ -3,17 +3,29 @@
 # Features
 
 /boost
+
 /paypal
+
 /cashapp
+
 /litecoin
+
 /bitcoin
+
 /restock
+
 /stock
+
 /sendtoken
+
 /avtivity
+
 /admin
+
 /whitelist
+
 /clear
+
 /unlicense
 
 # Setting Up 
