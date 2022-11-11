@@ -19,7 +19,7 @@
 # Setting Up 
 Your config.json should follow
 
-{
+
     "capmonsterKey": "YOUR KEY  https://capmonster.cloud",
     "paypalme": "YOUR PAYPAL LICK",
     "cashap": "YOUR CASHAPP LICK",
@@ -30,5 +30,3 @@ Your config.json should follow
     "bot_admin": [
         "YOUR ID HERE",
         "YOUR ID HERE"
-    ]
-}
